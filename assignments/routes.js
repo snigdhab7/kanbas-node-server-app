@@ -1,4 +1,4 @@
-import db from "../Database/index.js";
+import db from "../Database/index.cjs";
 function AssignmentRoutes(app) {
   app.get("/api/courses/:cid/assignments", (req, res) => {
     const { cid } = req.params;

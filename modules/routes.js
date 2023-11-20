@@ -1,4 +1,4 @@
-import db from "../Database/index.js";
+import db from "../Database/index.cjs";
 function ModuleRoutes(app) {
     app.delete("/api/modules/:mid", (req, res) => {
         const { mid } = req.params;
