@@ -1,0 +1,202 @@
+[
+  {
+    "_id": "M101",
+    "name": "Resources",
+    "description": "A collection of essential resources for understanding HTML principles and techniques.",
+    "course": "202410_2"
+  },
+  {
+    "_id": "M102",
+    "name": "Required Textbook",
+    "description": "An exploration of HTML fundamentals, including tags, elements, and document structure.",
+    "course": "202410_2"
+  },
+  {
+    "_id": "M103",
+    "name": "Week 0 - INTRO",
+    "description": "An introduction to the basics of HTML coding, covering syntax and essential tags.",
+    "course": "202410_2"
+  },
+  {
+    "_id": "M204",
+    "name": "Week 1 - HTML",
+    "description": "A deep dive into advanced HTML topics, including forms, CSS, and responsive design.",
+    "course": "202410_2"
+  },
+
+  {
+    "_id": "M105",
+    "name": "Resources",
+    "description": "A collection of essential resources for understanding HTML principles and techniques.",
+    "course": "202410_3"
+  },
+  {
+    "_id": "M106",
+    "name": "Required Textbook",
+    "description": "An exploration of HTML fundamentals, including tags, elements, and document structure.",
+    "course": "202410_3"
+  },
+  {
+    "_id": "M107",
+    "name": "Week 0 - INTRO",
+    "description": "An introduction to the basics of HTML coding, covering syntax and essential tags.",
+    "course": "202410_3"
+  },
+  {
+    "_id": "M208",
+    "name": "Week 1 - HTML",
+    "description": "A deep dive into advanced HTML topics, including forms, CSS, and responsive design.",
+    "course": "202410_3"
+  },
+
+
+  {
+    "_id": "M109",
+    "name": "Resources",
+    "description": "A collection of essential resources for understanding HTML principles and techniques.",
+    "course": "202410_4"
+  },
+  {
+    "_id": "M110",
+    "name": "Required Textbook",
+    "description": "An exploration of HTML fundamentals, including tags, elements, and document structure.",
+    "course": "202410_4"
+  },
+  {
+    "_id": "M111",
+    "name": "Week 0 - INTRO",
+    "description": "An introduction to the basics of HTML coding, covering syntax and essential tags.",
+    "course": "202410_4"
+  },
+  {
+    "_id": "M212",
+    "name": "Week 1 - HTML",
+    "description": "A deep dive into advanced HTML topics, including forms, CSS, and responsive design.",
+    "course": "202410_4"
+  },
+
+  {
+    "_id": "M113",
+    "name": "Resources",
+    "description": "A collection of essential resources for understanding HTML principles and techniques.",
+    "course": "202410_5"
+  },
+  {
+    "_id": "M114",
+    "name": "Required Textbook",
+    "description": "An exploration of HTML fundamentals, including tags, elements, and document structure.",
+    "course": "202410_5"
+  },
+  {
+    "_id": "M115",
+    "name": "Week 0 - INTRO",
+    "description": "An introduction to the basics of HTML coding, covering syntax and essential tags.",
+    "course": "202410_5"
+  },
+  {
+    "_id": "M216",
+    "name": "Week 1 - HTML",
+    "description": "A deep dive into advanced HTML topics, including forms, CSS, and responsive design.",
+    "course": "202410_5"
+  },
+
+  {
+    "_id": "M117",
+    "name": "Resources",
+    "description": "A collection of essential resources for understanding HTML principles and techniques.",
+    "course": "202410_6"
+  },
+  {
+    "_id": "M118",
+    "name": "Required Textbook",
+    "description": "An exploration of HTML fundamentals, including tags, elements, and document structure.",
+    "course": "202410_6"
+  },
+  {
+    "_id": "M119",
+    "name": "Week 0 - INTRO",
+    "description": "An introduction to the basics of HTML coding, covering syntax and essential tags.",
+    "course": "202410_6"
+  },
+  {
+    "_id": "M220",
+    "name": "Week 1 - HTML",
+    "description": "A deep dive into advanced HTML topics, including forms, CSS, and responsive design.",
+    "course": "202410_6"
+  },
+
+  {
+    "_id": "M121",
+    "name": "Resources",
+    "description": "A collection of essential resources for understanding HTML principles and techniques.",
+    "course": "202410_7"
+  },
+  {
+    "_id": "M122",
+    "name": "Required Textbook",
+    "description": "An exploration of HTML fundamentals, including tags, elements, and document structure.",
+    "course": "202410_7"
+  },
+  {
+    "_id": "M123",
+    "name": "Week 0 - INTRO",
+    "description": "An introduction to the basics of HTML coding, covering syntax and essential tags.",
+    "course": "202410_7"
+  },
+  {
+    "_id": "M224",
+    "name": "Week 1 - HTML",
+    "description": "A deep dive into advanced HTML topics, including forms, CSS, and responsive design.",
+    "course": "202410_7"
+  },
+
+  {
+    "_id": "M125",
+    "name": "Resources",
+    "description": "A collection of essential resources for understanding HTML principles and techniques.",
+    "course": "202410_8"
+  },
+  {
+    "_id": "M126",
+    "name": "Required Textbook",
+    "description": "An exploration of HTML fundamentals, including tags, elements, and document structure.",
+    "course": "202410_8"
+  },
+  {
+    "_id": "M127",
+    "name": "Week 0 - INTRO",
+    "description": "An introduction to the basics of HTML coding, covering syntax and essential tags.",
+    "course": "202410_8"
+  },
+  {
+    "_id": "M228",
+    "name": "Week 1 - HTML",
+    "description": "A deep dive into advanced HTML topics, including forms, CSS, and responsive design.",
+    "course": "202410_8"
+  },
+
+  {
+    "_id": "M129",
+    "name": "Resources",
+    "description": "A collection of essential resources for understanding HTML principles and techniques.",
+    "course": "202410_9"
+  },
+  {
+    "_id": "M130",
+    "name": "Required Textbook",
+    "description": "An exploration of HTML fundamentals, including tags, elements, and document structure.",
+    "course": "202410_9"
+  },
+  {
+    "_id": "M131",
+    "name": "Week 0 - INTRO",
+    "description": "An introduction to the basics of HTML coding, covering syntax and essential tags.",
+    "course": "202410_9"
+  },
+  {
+    "_id": "M232",
+    "name": "Week 1 - HTML",
+    "description": "A deep dive into advanced HTML topics, including forms, CSS, and responsive design.",
+    "course": "202410_9"
+  }
+]
