@@ -6,7 +6,7 @@ import CourseRoutes from "./courses/routes.js";
 import ModuleRoutes from "./modules/routes.js";
 import AssignmentRoutes from "./assignments/routes.js";
 import "dotenv/config";
-import session from "express-session";
+
 
 
 const app = express();
