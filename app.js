@@ -20,9 +20,9 @@ const app = express();
 app.use(cors({
     credentials: true,
    //origin: "http://localhost:3000",
-   //origin: process.env.FRONTEND_URL
+   origin: process.env.FRONTEND_URL
    //origin: '*'
-   origin: 'https://a6--neon-creponne-df278e.netlify.app',
+   //origin: 'https://a6--neon-creponne-df278e.netlify.app',
 
 
 }));
